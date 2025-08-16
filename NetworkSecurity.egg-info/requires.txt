@@ -5,6 +5,3 @@ pymongo
 certifi
 pymongo[srv]
 pymongo
-
-
--e.
